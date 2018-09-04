@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Dale's Dogs </title>
+        <meta name= "keywords" content= "hotdogs, fastfood, lunch">
+        <meta name = "author" content = "Dale Spence">
+        
+    </head>
+    
+    <body>
+    
+    <div class = "container">
+    
+        <h1> Dale's Dogs</h1>
+
+    </body>
+</html>

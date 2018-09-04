@@ -1,0 +1,12 @@
+body{
+    font-family; arial, comic, times; 
+    background-color: rgb(200,200,200); 
+    font-size: 20px;
+    line-height: 1.5;
+    color: green;
+}
+    
+h1{
+    background-color: blue;
+    color: white;
+}

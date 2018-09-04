@@ -1,0 +1,90 @@
+body{
+    font-family: comic, sans-serif, arial;
+    line-height: 1.5;
+    font-size: 25px;
+    text-align: center;
+}
+
+header{
+    background: rgb(0,255,255);
+    border-bottom: black 3px solid;
+    color:navy;
+    min-height: 100px;
+}
+
+header a{
+    color: blue;
+    text-decoration: comic;
+    text-transform: uppercase;
+}
+
+nav{
+    float:right;
+    margin-top: 50px;
+    
+}
+
+li{
+    display: inline;
+}
+header h1{
+    float:left;
+    margin-top: 50px;
+}
+
+header nav{
+    float: right;
+}
+header li{
+    
+    display: inline;
+    margin: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+
+#showcase{
+    
+    background: url(background.jpg) +0 -0px;
+    min-height: 500px;
+    color:black;
+    
+}
+
+#showcase h1{
+    color: blue;
+}
+
+#hobbies{
+    margin-top: 20px;
+}
+.hobby{
+    float: none;
+    width: 30%;
+    text-align: center;
+}
+
+.hobby h3{
+    color: blue;
+}
+
+footer{
+    background-color:rgb(0,255,255);
+    margin-top: 10px;
+    border-top: black 3px solid;
+}
+
+.container{
+    width:80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+header a:hover{
+    
+    color:black;
+}
+.highlight{
+    color:black;
+}
