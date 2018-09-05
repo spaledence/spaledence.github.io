@@ -33,7 +33,7 @@ header h1{
 }
 
 header nav{
-    float: right;
+    float:right;
 }
 header li{
     
@@ -60,8 +60,8 @@ header li{
     margin-top: 20px;
 }
 .hobby{
-    float: none;
-    width: 30%;
+    float: left;
+    width: 33%;
     text-align: center;
 }
 
