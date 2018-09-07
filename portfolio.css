@@ -44,30 +44,11 @@ header li{
 }
 
 
-#showcase{
-    
-    background: url(background.jpg) +0 -0px;
-    min-height: 500px;
-    color:black;
-    
-}
 
 #showcase h1{
     color: blue;
 }
 
-#hobbies{
-    margin-top: 20px;
-}
-.hobby{
-    float: left;
-    width: 10%;
-    text-align: center;
-}
-
-.hobby h3{
-    color: blue;
-}
 
 footer{
     background-color:rgb(0,255,255);
